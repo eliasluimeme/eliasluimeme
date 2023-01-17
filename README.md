@@ -2,15 +2,6 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
 
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
-</div>
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <h2 align="left">About me</h2>
@@ -51,7 +42,7 @@
 
 ###
 
-### You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+## You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <div align="left">
   <a href="linkedin.com" target="_blank">
