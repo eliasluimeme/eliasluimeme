@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello World 👋 It´s eliasluimeme
+
+[![iakry's 42 stats](https://badge.mediaplus.ma/greenbinary/iakry)](https://github.com/oakoudad/badge42)
 
 <!--
 **eliasluimeme/eliasluimeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
