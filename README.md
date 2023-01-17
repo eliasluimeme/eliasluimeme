@@ -1,15 +1,31 @@
 # Hello World 👋  It´s eliasluimeme
 
-<br clear="both">
-
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
 
 
-
+<br clear="both">
 
 <div align="right">
   <img height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
 </div>
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="center">My name is Elias, young software engineering student at 1337 from 42 network.</p>
+
+###
+
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Software engineering <br>🎯 Goals: giving impact to code<br>🎲 Fun fact: when am not coding i do business and marketing</p>
+
+###
+
+<h2 align="left">I play with</h2>
 
 ###
 
@@ -24,11 +40,31 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eliasluimeme/eliasluimeme/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=eliasluimeme" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=eliasluimeme" height="150" alt="languages graph"  />
+</div>
 
 ###
 
+<h2 align="left">let connect</h2>
+
 ###
+
+### You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
+<div align="left">
+  <a href="linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="discord.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+
 
 <!--
 **eliasluimeme/eliasluimeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
