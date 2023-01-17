@@ -1,6 +1,6 @@
 # Hello World 👋  It´s eliasluimeme
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
 
 ###
 
@@ -38,11 +38,11 @@
 
 ###
 
-<h2 align="left">let connect</h2>
+<h2 align="left">let´s connect</h2>
 
 ###
 
-#### You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+##### You can ask me anything (within reason). I am looking forward to absorb knowledge 🧠,gain experience 🏭, collaborate 🤝 and build amazing products 🏭 for the world 🌍!
 
 <div align="left">
   <a href="linkedin.com" target="_blank">
