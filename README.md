@@ -1,6 +1,6 @@
 # Hello World 👋  It´s eliasluimeme
 
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
 
 ###
 
