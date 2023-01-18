@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My name is Elias, young software engineering student at 1337 from 42 network.</p>
+<p align="center">My name is Elias, software engineering student at 1337 from 42 network.</p>
 
 ###
 
