@@ -1,4 +1,4 @@
-# Hello World 👋  It´s Elias
+# Hello World 👋  My name is Elias
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iakry" alt="iakry's 42 stats" /></a>
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My name is Elias, software engineering student at 1337 from 42 network.</p>
+<p align="center">Software engineering student at 1337, 42 network.</p>
 
 ###
 
