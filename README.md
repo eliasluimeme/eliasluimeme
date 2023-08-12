@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning AI <br>🎯 Goals: giving impact to code<br>🎲 Fun fact: when am not coding i do business and marketing</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning AI <br>🎯 Goals: giving impact to code<br>
 
 ###
 
