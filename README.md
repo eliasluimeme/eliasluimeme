@@ -12,8 +12,6 @@
 
 ###
 
-### <p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning AI <br>🎯 Goals: giving impact to code<br> ###
-
 ###
 
 <h2 align="left">I play with</h2>
