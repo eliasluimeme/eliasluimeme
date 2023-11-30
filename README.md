@@ -7,6 +7,10 @@
 <h2 align="left">About me</h2>
 
 ###
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eliasluimeme" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/eliasluimeme?trk=profile-badge">ilias akry</a></div>
+              
 
 <div align="center"> <a href="https://github.com/eliasluimeme"><img src="https://badge.mediaplus.ma/binary/iakry" alt="iakry's 42 stats" /></a> </div>
 
