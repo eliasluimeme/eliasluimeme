@@ -12,7 +12,7 @@
 
 <p align="center">Software engineering student at 1337, 42 network.</p>
 
-```
+``` python
   class EliasLuiMeme():
     
   def __init__(self):
@@ -25,7 +25,7 @@
   def __str__(self):
     return self.name
 
-if __name__ == '__main__':
+  if __name__ == '__main__':
     me = EliasLuiMeme()
 ```
 
