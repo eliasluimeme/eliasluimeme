@@ -130,13 +130,15 @@
 
 ###
 
-<h2 align="left">I write</h2>
+<h2 align="left">My articles</h2>
 
 ###
 
-<a align="center" href="https://medium.com/@akryelias/how-the-internet-works-a-simple-guide-for-beginners-38890765a96d">How the Internet Works: A Simple Guide for Beginners</a>
-
-<a align="center" href="https://medium.com/@akryelias">More articles</a>
+<div align="center"> 
+  <a align="center" href="https://medium.com/@akryelias/how-the-internet-works-a-simple-guide-for-beginners-38890765a96d">How the Internet Works: A Simple Guide for Beginners</a>
+  
+  <a align="center" href="https://medium.com/@akryelias">More articles</a>
+</div>
 
 
 ###
