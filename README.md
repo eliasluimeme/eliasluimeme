@@ -1,3 +1,8 @@
+<div align="center"> <a href="https://github.com/eliasluimeme"><img src="https://badge.mediaplus.ma/binary/iakry" alt="iakry's 42 stats" /></a> </div>
+
+<p align="center">Software engineering student at 1337-UM6P, 42 network.</p>
+
+
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=900&lines=Simple+things+should+be+simple%2C+complex+things+should+be+possible." alt="Typing SVG" /></a>
 </div>
@@ -8,9 +13,7 @@
 
 ###
 
-<div align="center"> <a href="https://github.com/eliasluimeme"><img src="https://badge.mediaplus.ma/binary/iakry" alt="iakry's 42 stats" /></a> </div>
 
-<p align="center">Software engineering student at 1337, 42 network.</p>
 
 ``` python
   class EliasLuiMeme():
