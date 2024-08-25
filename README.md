@@ -137,7 +137,7 @@
 <div align="center"> 
   <a align="center" href="https://medium.com/@akryelias/how-the-internet-works-a-simple-guide-for-beginners-38890765a96d">How the Internet Works: A Simple Guide for Beginners</a>
   
-  <a align="center" href="https://medium.com/@akryelias">More articles</a>
+  <a align="center" href="https://medium.com/@akryelias">👉 More articles.. 👈</a>
 </div>
 
 
