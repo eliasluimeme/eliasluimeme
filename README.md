@@ -136,7 +136,9 @@
 
 <div align="center"> 
   <a align="center" href="https://medium.com/@akryelias/how-the-internet-works-a-simple-guide-for-beginners-38890765a96d">How the Internet Works: A Simple Guide for Beginners</a>
+ <span></span>
   <a align="center" href="https://medium.com/@akryelias/the-internet-demystified-a-technical-overview-5a0591a7678d">The Internet Demystified: A Technical Overview</a>
+ <span></span>
   <a align="center" href="https://medium.com/@akryelias/mastering-git-switch-branches-without-losing-your-progress-2e58d28cb375">Mastering Git: Switch Branches Without Losing Your Progress</a>
   
   <a align="center" href="https://medium.com/@akryelias">👉 More articles.. 👈</a>
