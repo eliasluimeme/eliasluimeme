@@ -118,7 +118,7 @@
 </div>
 -->
 ###
-
+<!--
 <div align="center">
    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
      <picture>
@@ -127,7 +127,7 @@
      </picture>
    </a>
 </div>
-
+-->
 ###
 
 <h2 align="left">My articles</h2>
@@ -136,6 +136,7 @@
 
 <div align="center"> 
  <a align="center" href="https://medium.com/@akryelias/how-the-internet-works-a-simple-guide-for-beginners-38890765a96d">How the Internet Works: A Simple Guide for Beginners</a>
+ 
  
  <a align="center" href="https://medium.com/@akryelias/the-internet-demystified-a-technical-overview-5a0591a7678d">The Internet Demystified: A Technical Overview</a>
  
