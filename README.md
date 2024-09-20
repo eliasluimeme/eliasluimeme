@@ -141,6 +141,8 @@
  <a align="center" href="https://medium.com/@akryelias/the-internet-demystified-a-technical-overview-5a0591a7678d">The Internet Demystified: A Technical Overview</a>
  
  <a align="center" href="https://medium.com/@akryelias/mastering-git-switch-branches-without-losing-your-progress-2e58d28cb375">Mastering Git: Switch Branches Without Losing Your Progress</a>
+
+ <a align="center" href="https://medium.com/@akryelias/how-to-become-a-good-backend-engineer-the-fundamentals-b8ea26412908">How to Become a Good Backend Engineer: The Fundamentals</a>
   
   <a align="center" href="https://medium.com/@akryelias">👉 More articles.. 👈</a>
 </div>
