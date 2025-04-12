@@ -1,4 +1,6 @@
+<!--
 <div align="center"> <a href="https://github.com/eliasluimeme"><img src="https://badge.mediaplus.ma/binary/iakry" alt="iakry's 42 stats" /></a> </div>
+-->
 
 <p align="center">Software engineering student at 1337-UM6P, 42 network.</p>
 
